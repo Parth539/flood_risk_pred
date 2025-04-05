@@ -1,0 +1,10 @@
+flask
+flask-cors
+tensorflow
+geopy
+pillow
+matplotlib
+requests
+earthengine-api
+numpy
+textwrap3
