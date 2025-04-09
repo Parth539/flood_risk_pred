@@ -88,7 +88,6 @@ FloodSense is an AI-driven web application that predicts flood risk for any loca
 ## 📁 Project Structure
 
 ```bash
-📁 project-root/
 ├── 📁 templates/
 │   └── index.html                 # Frontend HTML template
 ├── README.md                      # Project documentation
