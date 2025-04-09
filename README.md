@@ -88,16 +88,15 @@ FloodSense is an AI-driven web application that predicts flood risk for any loca
 ## 📁 Project Structure
 
 ```bash
-📂 ML/
-  └── model_training.ipynb
-📂 backend/
-  └── app.py
-📂 frontend/
-  └── index.html
-📁 static/
-  └── styles.css, scripts.js
-📄 requirements.txt
-📄 README.md
+📁 project-root/
+├── 📁 templates/
+│   └── index.html                 # Frontend HTML template
+├── README.md                      # Project documentation
+├── backend1.py                    # Flask backend script
+├── flood.ipynb                    # Jupyter notebook for model training/evaluation
+├── requirements.txt               # Python dependencies
+├── service-account-key.json       # GEE service account credentials (keep this secure!)
+
 ```
 
 
