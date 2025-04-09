@@ -89,13 +89,11 @@ FloodSense is an AI-driven web application that predicts flood risk for any loca
 
 ```bash
 📂 ML/
-  └── model_training.ipynb
+  └── flood.ipynb
 📂 backend/
-  └── app.py
+  └── backend1.py
 📂 frontend/
   └── index.html
-📁 static/
-  └── styles.css, scripts.js
 📄 requirements.txt
 📄 README.md
 ```
